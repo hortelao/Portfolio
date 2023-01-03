@@ -7,6 +7,8 @@ AFACB4 - Silver Foil
 C04660 - Popstar
 
 */
+
+
 * {
     margin: 0px;
     padding: 0px;
@@ -388,6 +390,27 @@ footer {
     padding: 10px;
 }
 
+
+.goToTop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3258A0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 999;
+    display: none;
+}
+
+.goToTop img {
+    width: 30px;
+    height: 25px;
+}
 
 
 
