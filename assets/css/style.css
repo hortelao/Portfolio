@@ -225,9 +225,16 @@ p {
     box-shadow: 5px 5px 10px #3258A0;
 }
 
+
 .skill-block img {
     width: 90px;
     height: 90px;
+}
+
+.php img {
+    width:90px;
+    height: 50px;
+    padding-bottom: 40px;
 }
 
 .skill-block h2 {
