@@ -173,14 +173,14 @@ p {
     background-color: #AFACB4;
     border-radius: 20px 0px 0px 20px;
     padding: 60px;
-    box-shadow: 5px 5px 10px #3258A0, -5px -5px 10px #3258A0;
+    filter: drop-shadow(5px 5px 10px #3258A0);
 }
 
 .about-me-area2 {
     background-color: #AFACB4;
     border-radius: 0px 20px 20px 0px;
     padding: 60px;
-    box-shadow: 5px 5px 10px #3258A0, -5px -5px 10px #3258A0;
+    filter: drop-shadow(5px 5px 10px #3258A0);
 }
 
 .about-me-title,
